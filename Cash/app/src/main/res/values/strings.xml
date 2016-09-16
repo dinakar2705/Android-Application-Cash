@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cash</string>
+    <string name="LoginPage">Login Page</string>
+    <string name="Username">Enter Username</string>
+    <string name="Password">Enter Password</string>
+    <string name="Login">Login</string>
+    <string name="Reg">Want to register?</string>
+    <string name="Register">Register</string>
+    <string name="Registration">Registration</string>
+    <string name="Name">Enter Name</string>
+    <string name="Email">Enter Email</string>
+    <string name="ConfPass">Confirm Password</string>
+    <string name="Balance">Balance :</string>
+    <string name="Delete">Delete Account</string>
+    <string name="Deposit">Deposit Cash</string>
+    <string name="Transfer">Transfer Cash</string>
+    <string name="DepositPage">Deposit Page</string>
+    <string name="DepositB">Deposit</string>
+    <string name="Amount">Enter the amount</string>
+
+    <string name="Transferb">Transfer</string>
+    <string name="RecUrname">Enter Receivers Username</string>
+
+
+
+</resources>
